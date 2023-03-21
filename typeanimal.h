@@ -1,0 +1,11 @@
+//
+// Created by JAD on 21/03/2023.
+//
+
+#ifndef TUTOPROJETEFREI2_TYPEANIMAL_H
+#define TUTOPROJETEFREI2_TYPEANIMAL_H
+typedef enum {
+    DOG, HORSE
+}TypeAnimal;
+
+#endif //TUTOPROJETEFREI2_TYPEANIMAL_H
