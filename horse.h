@@ -16,4 +16,5 @@ typedef struct {
 Horse* createHorse(char* name, char gender, char* color);
 void displayHorse(Horse* horse);
 void neigh(Horse* horse);
+
 #endif //TUTOPROJETEFREI_HORSE_H

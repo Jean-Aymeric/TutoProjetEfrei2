@@ -5,7 +5,7 @@
 #ifndef TUTOPROJETEFREI2_TYPEANIMAL_H
 #define TUTOPROJETEFREI2_TYPEANIMAL_H
 typedef enum {
-    DOG, HORSE
-}TypeAnimal;
+    DOG, HORSE, TIGER
+} TypeAnimal;
 
 #endif //TUTOPROJETEFREI2_TYPEANIMAL_H
